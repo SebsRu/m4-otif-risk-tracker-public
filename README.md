@@ -2,7 +2,7 @@
 
 **Part of the Supply Chain AI Suite** | By Sebastián Rueda, Supply Chain AI Orchestrator
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://m4-otif-risk-tracker-public.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://m4-otif-risk-tracker-public-icmdhwqsb4nmut7wnaof4n.streamlit.app)
 
 ---
 
@@ -38,7 +38,7 @@ This tool answers all four questions **in seconds** by combining vendor OTIF per
 
 ## 🚀 Live Demo
 
-### **👉 [Launch the App](https://m4-otif-risk-tracker-public.streamlit.app)**
+### **👉 [Launch the App](https://m4-otif-risk-tracker-public-icmdhwqsb4nmut7wnaof4n.streamlit.app)**
 
 Try it now with **demo vendor data** (5 suppliers, 5 SKUs across Snacks, Beauty, Electronics, Accessories, Pharma) or **upload your own CSV**.
 
@@ -170,7 +170,7 @@ If no file is uploaded, the app runs with **synthetic CPG/Pharma vendor data** (
 | **M1** | **Demand Planning — AI Forecast Comparator** | ✅ **LIVE** | [Demo](https://m1-demand-forecast-public-fyjvowtsbgsa6yfovy82xk.streamlit.app) |
 | **M2** | **Inventory Diagnosis & Coverage Analyzer** | ✅ **LIVE** | [Demo](https://m2-inventory-diagnosis-public-emthenygqlck7srnw4dejt.streamlit.app) |
 | **M3** | **Replenishment Coach — Safety Stock Calculator** | 🔄 **In Dev** | — |
-| **M4** | **Procurement — OTIF Risk Tracker** | ✅ **THIS MODULE** | [Demo](https://m4-otif-risk-tracker-public.streamlit.app) |
+| **M4** | **Procurement — OTIF Risk Tracker** | ✅ **THIS MODULE** | [Demo](https://m4-otif-risk-tracker-public-icmdhwqsb4nmut7wnaof4n.streamlit.app) |
 | **M5** | **Control Tower 360 — Executive Dashboard** | 🔄 In Dev | — |
 
 **Module Flow:** M1 (Forecast) → M2 (Inventory) → M3 (Replenishment) → M4 (Vendor Risk) → M5 (Control Tower)
@@ -223,4 +223,4 @@ Code available under **NDA** for commercial use. Contact for licensing.
 
 ---
 
-**Ready to secure your procurement flow and eliminate vendor-driven stockouts?** 👉 [Launch the App](https://m4-otif-risk-tracker-public.streamlit.app)
+**Ready to secure your procurement flow and eliminate vendor-driven stockouts?** 👉 [Launch the App](https://m4-otif-risk-tracker-public-icmdhwqsb4nmut7wnaof4n.streamlit.app)
