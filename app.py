@@ -222,7 +222,7 @@ with tab1:
         elif '🟡' in str(val): return 'background-color: #fff3cd'
         return 'background-color: #d4edda'
     
-    st.dataframe(df_v[v_display_cols].style.applymap(style_risk, subset=['Risk_Level']).format({"Global_OTIF_%": "{:.1f}%", "Total_Financial_Exposure_$": "${:,.0f}", "Unit_Price": "${:,.2f}"}), use_container_width=True, hide_index=True)
+    st.dataframe(df_v[v_display_cols].style.map(style_risk, subset=['Risk_Level']).format({"Global_OTIF_%": "{:.1f}%", "Total_Financial_Exposure_$": "${:,.0f}", "Unit_Price": "${:,.2f}"}), use_container_width=True, hide_index=True)
     
     st.divider()
     cp1, cp2 = st.columns(2)
